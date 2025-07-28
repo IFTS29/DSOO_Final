@@ -1,0 +1,44 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.pdb
+*.obj
+*.exe
+*.dll
+*.ncb
+*.aps
+*.bsc
+*.sbr
+*.tlb
+*.tlh
+*.tmp
+*.log
+*.bak
+*.old
+*.ilk
+*_UpgradeReport.htm
+packages/
+[Bb]in/
+[Oo]bj/
+*.opendb
+*.cache
+
+# SQL Server Management Studio
+*.mdf
+*.ldf
+
+# NuGet
+*.nupkg
+*.orig
+
+# Resharper
+_ReSharper*/
+*.ReSharper
+
+# Other
+*.vspscc
+*.vssscc
+*.vsdproj.user
+*.useros
+
