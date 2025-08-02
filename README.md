@@ -49,6 +49,6 @@ Este proyecto está bajo la Licencia [Nombre de la Licencia, ej: MIT License] - 
 ## 📞 Participantes
 
 * **Miguel Flores**: [[GitHub](https://github.com/mikefink22)]
-* **Nombre**: [GitHub o Email]
+* **Mariana**: [[GitHub o Email](https://github.com/orgs/IFTS29/people/Aiello-M)]
 
 ---
