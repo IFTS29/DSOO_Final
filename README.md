@@ -1,6 +1,6 @@
 # Proyecto Integrador - Gestor de Club Deportivo
 
-Este repositorio contiene el proyecto integrador desarrollado para [menciona la materia o el objetivo principal]. El objetivo de este proyecto es [breve descripción de lo que hace el proyecto o su propósito].
+Este repositorio contiene el proyecto integrador desarrollado para la materia Desarrollo de Sistemas Orientado a Objetos. El objetivo de este proyecto es [breve descripción de lo que hace el proyecto o su propósito].
 
 ## 🚀 Comenzando
 
@@ -49,6 +49,6 @@ Este proyecto está bajo la Licencia [Nombre de la Licencia, ej: MIT License] - 
 ## 📞 Participantes
 
 * **Miguel Flores**: [[GitHub](https://github.com/mikefink22)]
-* **Mariana**: [[GitHub o Email](https://github.com/orgs/IFTS29/people/Aiello-M)]
+* **Mariana**: [[GitHub](https://github.com/orgs/IFTS29/people/Aiello-M)]
 
 ---
